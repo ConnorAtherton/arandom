@@ -1,0 +1,19 @@
+{
+  "name": "arandom",
+  "version": "0.1.0",
+  "description": "Random array access.",
+  "main": "src/arandom.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ConnorAtherton/arandom.css.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "array",
+    "random"
+  ],
+  "author": "Connor Atherton",
+  "license": "MIT"
+}
